@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javatechie.spring.cloud.security.api.SpringCloudOauth2ExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.665 s - in com.javatechie.spring.cloud.security.api.SpringCloudOauth2ExampleApplicationTests
